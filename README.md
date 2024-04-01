@@ -1,4 +1,4 @@
-# Repository Name
+# ECNP-NNADR
 
 ## Description
 This repository contains code for various stages of neuroimaging data processing, quality control, and machine learning analysis. The code is implemented in both R and MATLAB.
