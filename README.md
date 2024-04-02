@@ -29,7 +29,7 @@ Machine learning analysis is conducted using the Machine Learning in R package (
 
 ## Contributor
 - [Adyasha Khuntia](https://github.com/adyasha95/)
-- [Clara Vetter] (https://github.com/claravetter/)
+- [Clara Vetter](https://github.com/claravetter/)
 - [John Fanning]
 - [Madalina Buciuman]
 - [Anne Ruef]
